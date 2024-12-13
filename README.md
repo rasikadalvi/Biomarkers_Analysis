@@ -1,2 +1,1 @@
-# s2511090
-IPS Project
+# Probability and Statistics Project
