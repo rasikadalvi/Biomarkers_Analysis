@@ -1,4 +1,4 @@
-# Biomarkers and Pain Analysis
+# Biomarkers and Pain Analysis | Statistics Project
 
 This project is an academic project which demonstrates basic probability and statitics concepts. In this project I've done hypothesis testing and regression modelling. 
 
